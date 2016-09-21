@@ -1,2 +1,4 @@
 # swap1516
-repositorio para asignatura
+**Asignatura de la especialidad de T.I**
+# U.G.R
+
